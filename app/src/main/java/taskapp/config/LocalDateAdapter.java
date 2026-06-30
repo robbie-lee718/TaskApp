@@ -1,4 +1,4 @@
-package taskapp.helpers;
+package taskapp.config;
 
 import com.google.gson.*;
 import java.lang.reflect.Type;

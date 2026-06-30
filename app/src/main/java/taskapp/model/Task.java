@@ -1,4 +1,4 @@
-package taskapp;
+package taskapp.model;
 
 import java.time.LocalDate;
 

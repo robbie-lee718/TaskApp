@@ -1,10 +1,11 @@
-package taskapp;
+package taskapp.repository;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 
-import taskapp.helpers.LocalDateAdapter;
+import taskapp.config.LocalDateAdapter;
+import taskapp.model.Task;
 
 import java.io.*;
 import java.lang.reflect.Type;
